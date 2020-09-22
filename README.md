@@ -1,5 +1,7 @@
 This is a work in progress experiment PoC of rewriting OctoSQL in Rust, as I've been seeing 10-100x performance improvements using a more optimized design.
 
+*DEVELOPMENT HAS MOVED TO https://github.com/cube2222/octosql/tree/rust-rewrite*
+
 # Roadmap
 The current roadmap is to achieve feature parity with the Go version of OctoSQL. When this is done, we'll decide which one gets to stay.
 
